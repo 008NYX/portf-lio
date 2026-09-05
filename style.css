@@ -302,6 +302,16 @@ img {
     h2 {
         font-size: 4rem;
     }
+
+    .h3logins {
+        font-size: 3rem;
+    }
+}
+
+.loginsgrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
 }
 
 .projgrid {
